@@ -11,7 +11,7 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,base64,requests,urllib
 
 cl = LINETCR.LINE()
-cl.login(token='')
+cl.login(token='EoKirg26lwSyUjEdHKTc.K+aGvOSDEuWbEIIhnbxcBa.eqcIvNCX1A/3NEhBfGEDbn9yg/SOuMrVCV9x/cR8Rx8=')
 cl.loginResult()
 
 ki = kk = kc = cl 
